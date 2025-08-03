@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks (если будешь использовать)
+.ipynb_checkpoints/
+
+# VSCode/JetBrains
+.vscode/
+.idea/
+
+# Excel outputs
+*.xlsx
